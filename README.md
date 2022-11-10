@@ -8,4 +8,4 @@ PS: If you drop ICE, I will subscribe to the Pro account.
 
 Me, elsewhere:
 
-- <a rel="me" href="https://weirder.earth/@amanjeev">Mastodon</a>
+- <a rel="me nofollow" href="https://weirder.earth/@amanjeev">Mastodon</a>
